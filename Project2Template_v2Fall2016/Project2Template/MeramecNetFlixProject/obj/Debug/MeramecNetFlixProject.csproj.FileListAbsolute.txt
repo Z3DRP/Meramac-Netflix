@@ -1,0 +1,134 @@
+C:\Meramec\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe.config
+C:\Meramec\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe
+C:\Meramec\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.pdb
+C:\Meramec\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csprojResolveAssemblyReference.cache
+C:\Meramec\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.Properties.Resources.resources
+C:\Meramec\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csproj.GenerateResource.Cache
+C:\Meramec\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.exe
+C:\Meramec\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.pdb
+C:\Meramec\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.Form1.resources
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe.config
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.pdb
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csprojResolveAssemblyReference.cache
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.Properties.Resources.resources
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.Form1.resources
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csproj.GenerateResource.Cache
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.exe
+D:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.pdb
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe.config
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.exe
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.pdb
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.pdb
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csprojResolveAssemblyReference.cache
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.Properties.Resources.resources
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.Form1.resources
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csproj.GenerateResource.Cache
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe.config
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.pdb
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.Properties.Resources.resources
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.Form1.resources
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csproj.GenerateResource.Cache
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.exe
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.pdb
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe.config
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.exe
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramecNetFlixProject.pdb
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Dapper.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Dapper.xml
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csprojAssemblyReference.cache
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.Properties.Resources.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.GenreForm.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csproj.GenerateResource.cache
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csproj.CoreCompileInputs.cache
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csproj.CopyComplete
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.exe
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.pdb
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.OpeningScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.LoginScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.SignUpScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.CreateAccountScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.RentalScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.AdminScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.MemberDataEntry.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.MoviePreviewScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.MoviesForm.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.RentalMaintenceForm.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.PasswordRequirements.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.AllMoviesScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.MyStuffScreen.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.RentalSearchForm.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Interop.WMPLib.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\AxInterop.WMPLib.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\Interop.WMPLib.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\AxInterop.WMPLib.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.csproj.ResolveComReference.cache
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.GenreReportForm.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.MemberReportForm.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.MoviesReportForm.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.RentalReportForm.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\MeramecNetFlixProject.UI.ReportCenter.resources
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\RdlCompile.cache
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\obj\Debug\RdlCompile.compiled
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramacNetflix.mdf
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\MeramacNetflix_log.ldf
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\EnvDTE.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\stdole.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\Microsoft.MSXML.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll

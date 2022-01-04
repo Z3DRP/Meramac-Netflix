@@ -1,0 +1,92 @@
+===================================
+member test data
+===================================
+user adminUser
+pwd jDang#90
+
+username: user1 
+password: passWord@1
+
+username: user2
+password: passWord@2
+
+username: admin1
+password: @dminPwd1
+
+username: admin2
+passwordL @dminPwd2
+
+username: kenderz
+Holmes@91
+
+usrname: flapyJacky
+pwd: flapJack$1
+
+usrname: DaffyDoug
+pwd: daffyDuck@1
+
+usrnm: HGrey
+pwd: HGrey@123
+===================================
+Movies test data
+====================================
+31 
+Coming 2 america 
+set in the lush and royal country of Zamunda 
+as well as all around the globe as newly crowned King Akeem
+and his trusted confidant Semmi embark on an all-new hilarious 
+adventure that brings them back to Queens
+2021
+genre id for comedy
+PG13
+coming2Americab.jpg
+2
+https://youtu.be/sY8gUtyeAKE
+
+32
+Venom
+A failed reporter is bonded to an alien entity, one of many symbiotes
+ who have invaded Earth. But the being takes a liking to Earth and 
+decides to protect it.
+2018
+genre id for action
+PG13
+venomIMG.jpg
+3
+https://youtu.be/u9Mv98Gr5pY
+
+33
+Finch
+On a post-apocalyptic earth, a robot, built to protect the life of his 
+creator's beloved dog, learns about life, love, friendship and what it 
+means to be human.
+2021
+genre id for scifi
+PG13
+finchIMG.jpg
+2
+https://youtu.be/loJC5ULaAc0
+
+34
+Remember the Titans
+The true story of a newly appointed African-American coach and his 
+high school team on their first season as a racially integrated unit.
+2000
+genre id for drama
+PG
+rememberTitansIMG.jpg
+3
+https://youtu.be/35MvdHBWjwU
+===================
+Rentals Test data
+===================
+movieNum:1 memberNum:1 purchaseDate: today streamingStart: today returnDate:today + 2 days
+movieNum:2 memberNum:1 purchaseDate: today streamingStart: today returnDate: today+2days
+movieNum:2 memberNum:2 purchaseDate: yesterday streaminStart: yesterday return: yesterday+2
+movieNum:2 memberNum:3 purchaseDate: yesterday streamingStart: yesterdat return: yesterday+2days
+movieNum:3 memberNum:3 purchaseDate: today streamingStart: today return: today+2
+movieNum:3 mmeberNum:2 purchasdDate: today streamingStart: today return: today+2
+movieNum:3 memberNum:1 purchaseDate: today streamingStart: today return: today+2
+movieNum:4 memberNum:1 purchaseDate: today streamingStart: today return: today+2
+movieNum:4 memberNUm:2 purchaseDate: today streamstart: today return: today+2
+movieNum4: memberNum:2 purchaseDate: toay streamingstart: today return: today+2

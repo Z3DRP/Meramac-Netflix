@@ -1,0 +1,23 @@
+C:\Meramec\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentProject.csprojResolveAssemblyReference.cache
+C:\Meramec\Project2Template\MeramecNetFlixComponentProject\bin\Debug\MeramecNetFlixComponentLibrary.dll
+C:\Meramec\Project2Template\MeramecNetFlixComponentProject\bin\Debug\MeramecNetFlixComponentLibrary.pdb
+C:\Meramec\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentLibrary.dll
+C:\Meramec\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentLibrary.pdb
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\bin\Debug\MeramecNetFlixComponentLibrary.dll
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\bin\Debug\MeramecNetFlixComponentLibrary.pdb
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentProject.csprojResolveAssemblyReference.cache
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentLibrary.dll
+E:\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentLibrary.pdb
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\bin\Debug\MeramecNetFlixComponentLibrary.dll
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\bin\Debug\MeramecNetFlixComponentLibrary.pdb
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentLibrary.dll
+C:\Users\Stevie\Documents\IS 253 251 C# Programming II\Project 2-Specs (Movie Rental)\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentLibrary.pdb
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\bin\Debug\MeramecNetFlixComponentLibrary.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\bin\Debug\MeramecNetFlixComponentLibrary.pdb
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\bin\Debug\Dapper.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\bin\Debug\Dapper.xml
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentProject.csprojAssemblyReference.cache
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentProject.csproj.CoreCompileInputs.cache
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentProject.csproj.CopyComplete
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentLibrary.dll
+C:\c#2\Project2\Project2Template_v2Fall2016\Project2Template\MeramecNetFlixComponentProject\obj\Debug\MeramecNetFlixComponentLibrary.pdb
